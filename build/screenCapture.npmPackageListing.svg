@@ -1,19 +1,19 @@
 <svg height="254" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="254" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-06 15:20:30 +0000    73405 byte  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-06 15:20:30 +0000     1087 byte  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-06 15:20:30 +0000     8850 byte  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-06 15:20:30 +0000    11761 byte  docs/gauges.png</tspan>
-<tspan x="10" y="90">  4.  2017-04-06 15:20:30 +0000     6488 byte  docs/progress.png</tspan>
-<tspan x="10" y="106">  5.  2017-04-06 15:20:30 +0000    13109 byte  docs/sparklines.png</tspan>
-<tspan x="10" y="122">  6.  2017-04-06 15:20:30 +0000    15700 byte  docs/spinner.gif</tspan>
-<tspan x="10" y="138">  7.  2017-04-06 15:20:30 +0000     1359 byte  examples/buffer.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-06 15:20:30 +0000     1846 byte  examples/gauges.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-06 15:20:30 +0000     1061 byte  examples/progress.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-06 15:20:30 +0000      660 byte  examples/simpleColumns.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-06 15:20:30 +0000      360 byte  examples/spinner.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-06 15:20:30 +0000     8924 byte  lib/clui.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-06 15:20:30 +0000     2200 byte  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 03:16:52 +0000    73405 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 03:16:52 +0000     1087 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 03:16:52 +0000     8850 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 03:16:52 +0000    11761 bytes  docs/gauges.png</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 03:16:52 +0000     6488 bytes  docs/progress.png</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 03:16:52 +0000    13109 bytes  docs/sparklines.png</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 03:16:52 +0000    15700 bytes  docs/spinner.gif</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 03:16:52 +0000     1359 bytes  examples/buffer.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 03:16:52 +0000     1846 bytes  examples/gauges.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 03:16:52 +0000     1061 bytes  examples/progress.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 03:16:52 +0000      660 bytes  examples/simpleColumns.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 03:16:52 +0000      360 bytes  examples/spinner.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 03:16:52 +0000     8924 bytes  lib/clui.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 03:16:52 +0000     2200 bytes  package.json</tspan>
 </text>
 </svg>
