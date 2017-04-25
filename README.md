@@ -1,8 +1,8 @@
 # npmdoc-clui
 
-api documentation for  [clui (v0.3.1)](https://github.com/nathanpeck/clui)  [![npm package](https://img.shields.io/npm/v/npmdoc-clui.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-clui) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-clui.svg)](https://travis-ci.org/npmdoc/node-npmdoc-clui)
+#### basic api documentation for  [clui (v0.3.1)](https://github.com/nathanpeck/clui)  [![npm package](https://img.shields.io/npm/v/npmdoc-clui.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-clui) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-clui.svg)](https://travis-ci.org/npmdoc/node-npmdoc-clui)
 
-A Node.js toolkit for drawing nice command line tables, gauges, spinners, and sparklines.
+#### A Node.js toolkit for drawing nice command line tables, gauges, spinners, and sparklines.
 
 [![NPM](https://nodei.co/npm/clui.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/clui)
 
@@ -69,7 +69,8 @@ A Node.js toolkit for drawing nice command line tables, gauges, spinners, and sp
         "url": "git://github.com/nathanpeck/clui.git"
     },
     "scripts": {},
-    "version": "0.3.1"
+    "version": "0.3.1",
+    "bin": {}
 }
 ```
 
